@@ -32,7 +32,6 @@ public class Main {
         // Attach tracker to all ducks
         observableMallard.attach(tracker);
         observableRedhead.attach(tracker);
-        observableDuckCall.attach(tracker);
         observableRubberDuck.attach(tracker);
         observableGooseDuck.attach(tracker);
 
